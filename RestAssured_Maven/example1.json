@@ -1,0 +1,114 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "john",
+      "location": "india",
+      "phone": "1111",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "KIM",
+      "location": "US",
+      "phone": "2222",
+      "courses": [
+        "python",
+        "appium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "ASHVAGHOSH",
+      "location": "india",
+      "phone": "7744838574",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "fe3a",
+      "courses": [
+        "c",
+        "c++"
+      ],
+      "phone": "1111",
+      "name": "abc1",
+      "location": "india"
+    },
+    {
+      "id": "3dfe",
+      "name": "abc4",
+      "location": "pune4",
+      "phone": "8888",
+      "courses": [
+        "c",
+        "c++"
+      ]
+    },
+    {
+      "id": "3279",
+      "name": "abc4",
+      "location": "pune4",
+      "phone": "8888",
+      "courses": [
+        "c",
+        "c++"
+      ]
+    },
+    {
+      "id": "425b",
+      "name": "abc4",
+      "location": "pune4",
+      "phone": "8888",
+      "courses": [
+        "c",
+        "c++"
+      ]
+    },
+    {
+      "id": "7e08",
+      "name": "abc4",
+      "location": "pune4",
+      "phone": "8888",
+      "courses": [
+        "c",
+        "c++"
+      ]
+    },
+    {
+      "id": "948b",
+      "name": "abc4",
+      "location": "pune4",
+      "phone": "8888",
+      "courses": [
+        "c",
+        "c++"
+      ]
+    },
+    {
+      "id": "a31d",
+      "name": "abc4",
+      "location": "pune4",
+      "phone": "8888",
+      "courses": [
+        "c",
+        "c++"
+      ]
+    },
+    {
+      "id": "aefd",
+      "name": "abc5",
+      "location": "Aus",
+      "phone": "7777",
+      "courses": [
+        "c",
+        "c++"
+      ]
+    }
+  ]
+}

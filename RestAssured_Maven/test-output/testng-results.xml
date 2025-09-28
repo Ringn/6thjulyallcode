@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-11T11:34:12 IST" name="Default suite" finished-at="2025-06-11T11:34:16 IST" duration-ms="4540">
+    <groups>
+    </groups>
+    <test started-at="2025-06-11T11:34:12 IST" name="Default test" finished-at="2025-06-11T11:34:16 IST" duration-ms="4540">
+      <class name="GetCall.ex1_getRequest">
+        <test-method signature="getRequest_ValidID()[pri:1, instance:GetCall.ex1_getRequest@33990a0c]" started-at="2025-06-11T11:34:12 IST" name="getRequest_ValidID" finished-at="2025-06-11T11:34:15 IST" duration-ms="3830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_ValidID -->
+        <test-method signature="getRequest_inValidID()[pri:2, instance:GetCall.ex1_getRequest@33990a0c]" started-at="2025-06-11T11:34:15 IST" name="getRequest_inValidID" finished-at="2025-06-11T11:34:16 IST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_inValidID -->
+      </class> <!-- GetCall.ex1_getRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

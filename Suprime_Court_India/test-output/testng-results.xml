@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-24T14:20:32 IST" name="Default suite" finished-at="2024-12-24T14:21:28 IST" duration-ms="56551">
+    <groups>
+    </groups>
+    <test started-at="2024-12-24T14:20:32 IST" name="Default test" finished-at="2024-12-24T14:21:28 IST" duration-ms="56551">
+      <class name="Test.Suprime_CourtTest">
+        <test-method is-config="true" signature="openb()[pri:0, instance:Test.Suprime_CourtTest@25fb8912]" started-at="2024-12-24T14:20:32 IST" name="openb" finished-at="2024-12-24T14:20:34 IST" duration-ms="2311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openb -->
+        <test-method signature="casestatus()[pri:1, instance:Test.Suprime_CourtTest@25fb8912]" started-at="2024-12-24T14:20:34 IST" name="casestatus" finished-at="2024-12-24T14:20:44 IST" duration-ms="10349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- casestatus -->
+        <test-method signature="diary()[pri:2, instance:Test.Suprime_CourtTest@25fb8912]" started-at="2024-12-24T14:20:45 IST" name="diary" finished-at="2024-12-24T14:20:49 IST" duration-ms="4635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diary -->
+        <test-method signature="Num()[pri:3, instance:Test.Suprime_CourtTest@25fb8912]" started-at="2024-12-24T14:20:49 IST" name="Num" finished-at="2024-12-24T14:21:03 IST" duration-ms="13514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Num -->
+        <test-method signature="clickOnSearch()[pri:4, instance:Test.Suprime_CourtTest@25fb8912]" started-at="2024-12-24T14:21:03 IST" name="clickOnSearch" finished-at="2024-12-24T14:21:28 IST" duration-ms="25250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSearch -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Test.Suprime_CourtTest@25fb8912]" started-at="2024-12-24T14:21:28 IST" name="logout" finished-at="2024-12-24T14:21:28 IST" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Test.Suprime_CourtTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
